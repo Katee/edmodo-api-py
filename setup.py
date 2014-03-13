@@ -7,7 +7,7 @@ setup(
     author_email='',
     packages=['edmodoapi'],
     description='Simple wrapper for the Edmodo API',
-    long_description=open('README.md').read(),
+    long_description=open('README.txt').read(),
     install_requires=[
         "requests>= 2.2.1",
     ],
